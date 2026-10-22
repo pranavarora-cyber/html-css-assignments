@@ -1,0 +1,1 @@
+In this assignment, I learned how to set up Visual Studio Code (VS Code) for web development. I learned about Node.js and npm, which are used to run JavaScript and manage packages. I also learned how to install the Live Server extension in VS Code to run HTML files in a web browser. This setup helps me create, test, and preview web pages while learning HTML and CSS.
